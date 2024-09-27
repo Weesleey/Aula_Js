@@ -1,0 +1,9 @@
+h1{
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+}
+
+body{
+    background-color: hsl(0, 0%, 82%);
+}
